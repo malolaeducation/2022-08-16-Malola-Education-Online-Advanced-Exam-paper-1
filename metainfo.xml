@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<presentation availableOffline="1" guid="B517A519-D39E-486C-A54F-5B0AAC66B2D5" version="0">
+	<info>
+		<title>2022-08-16 Malola Education Online Advanced Exam paper-1</title>
+		<description/>
+	</info>
+	<files index="id23" thumbnail="id19" totalSize="3824633">
+		<file id="id0">data/apple-touch-icon.png</file>
+		<file id="id1">data/browsersupport.js</file>
+		<file id="id2">data/favicon.ico</file>
+		<file id="id3">data/fonts/fnt0.woff</file>
+		<file id="id4">data/fonts/fnt1.woff</file>
+		<file id="id5">data/fonts/fnt2.woff</file>
+		<file id="id6">data/fonts/fnt3.woff</file>
+		<file id="id7">data/fonts/fnt4.woff</file>
+		<file id="id8">data/fonts/fnt5.woff</file>
+		<file id="id9">data/html5-unsupported.html</file>
+		<file id="id10">data/html5.png</file>
+		<file id="id11">data/images/img-036280cab48f5c3c0f52847b843d1a4be6febef8.PNG</file>
+		<file id="id12">data/images/img-0e20f111be6fc73c217e39c835897f1919c9b443.PNG</file>
+		<file id="id13">data/images/img-550cce5c553fa18127654647b834d63187815227.PNG</file>
+		<file id="id14">data/images/img-5fccfe191aef9d34375d647ab5421aa2f34eba58.PNG</file>
+		<file id="id15">data/images/img-7da7d7d2107c6892d9a8a23b6e957b3c502dfd8f.PNG</file>
+		<file id="id16">data/images/img-e5fe69e6292ce921a6f0a81bea4137e44ea8b7ca.PNG</file>
+		<file id="id17">data/ismplayer/app_store2x.png</file>
+		<file id="id18">data/ismplayer/play.svg</file>
+		<file id="id19">data/ismplayer/preview.png</file>
+		<file id="id20">data/ismplayer/style.css</file>
+		<file id="id21">data/ismplayer/style_mini.css</file>
+		<file id="id22">data/player.js</file>
+		<file id="id23">index.html</file>
+		<file id="id24">ismplayer.html</file>
+		<file id="id25">preview.png</file>
+	</files>
+</presentation>
+
